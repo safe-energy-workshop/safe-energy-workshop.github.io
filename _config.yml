@@ -2,7 +2,7 @@ title: SAFE-ENERGY Workshop 2024
 preposition: at
 description: The  1st  ACM International Workshop on Trust-worthy ML for energy systems
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "safe-energy-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://safe-energy-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
