@@ -1,8 +1,8 @@
-title: RLEM Workshop 2023
+title: SAFE-ENERGY Workshop 2024
 preposition: at
-description: Fourth ACM SIGEnergy Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.rlem-workshop.net/" # the base hostname & protocol for your site, e.g. https://example.com
+description: The  1st  ACM International Workshop on Trust-worthy ML for energy systems
+baseurl: "/safe-energy-workshop" # the subpath of your site, e.g. /blog
+url: "https://matiasquintana.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
@@ -63,9 +63,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: ACM BuildSys
+      name: ACM e-Energy
       # img: ''
-      url: 'https://buildsys.acm.org/2023/'
+      url: 'https://energy.acm.org/conferences/eenergy/2024/index.php'
     links:
       - name: Dates
         relative_url: /dates/
@@ -86,12 +86,6 @@ conference:
           - name: 2023 (current)
             disabled: false
             relative_url: /
-          - name: 2022
-            relative_url: /editions/2022/
-          - name: 2021
-            relative_url: /editions/2021/
-          - name: 2020
-            relative_url: /editions/2020/
 
   # Link Preview for Sharing
   link_preview:
@@ -100,34 +94,6 @@ conference:
     img:
       twitter: 'twitter_preview.png'      # inside /assets/images/
       open_graph: 'facebook_preview.png'  # inside /assets/images/
-
-  # # Main landing page
-  # main:
-  #   # logo:
-  #   #   img: ''
-  #   links:
-  #     - name: Program
-  #       relative_url: /program/
-  #     - name: How to get there
-  #       relative_url: /location/
-  #     - name: Tickets
-  #       disabled: true
-  #       absolute_url: ''
-
-  # # Information boxes
-  # info_bars:
-  #   - title: Welcome to the Conference Theme for Jekyll!
-  #     color: primary
-  #     main_only: true
-  #     text: |
-  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
-
-  #       ---
-
-  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-  #   - text: This is just some random content for demonstration purposes.
-  #     color: warning
-  #     pages_only: true
 
   # Live indications
   live:

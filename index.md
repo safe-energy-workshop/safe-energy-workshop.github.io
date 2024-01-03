@@ -2,13 +2,13 @@
 layout: home
 ---
 
-RLEM brings together researchers and industry practitioners for the advancement of (deep) reinforcement learning (RL) in the built environment as it is applied for managing energy in civil infrastructure systems (energy, water, transportation).
+SAFE-ENERGY brings together researchers for the advancement of trust-worthy machine learning for energy systems.
 
-RLEM'23 will be held in conjunction with [ACM BuildSys'23](https://buildsys.acm.org/2023/).
+SAFE-ENERGY'24 will be held in conjunction with [e-Energy'24](https://energy.acm.org/conferences/eenergy/2024/index.php).
 
 
 ## Registration
-[Register now via BuildSys 2023.](https://buildsys.acm.org/2023/registration/)
+More information coming soon!
 
 ## Keynote
-:mega: Pleased to announce [Bharathan Balaji](speakers/Presentation%205%20Speaker%202) (Amazon) and [John Sipple](speakers/Presentation%202%20Speaker%202) (Google) as keynote speakers at RLEM'23!
+:mega: More information coming soon!

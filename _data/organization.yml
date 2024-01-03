@@ -1,40 +1,30 @@
 - role: "General"
   chair: true
   member:
-    - name: "Zoltan Nagy"
+    - name: "Hussain Kazmi"
 - role: "Web"
   chair: true
   member:
-    - name: Kingsley Nweye
+    - name: Matias Quintana
 - role: "Technical Program Committee"
   chair: true
   member:
-    - name: "Zoltan Nagy"
-    - name: "June Young Park"
+    - name: "Hussain Kazmi"
+    - name: "Clayton Miller"
+    - name: "Matias Quintana"
+    - name: "Chun Fu"
 - role: "Technical Program Committee"
   chair: false
   member:
-    - name: Alex Vlachokostas
-    - name: Alfonso Capozzoli
-    - name: Anand Krishnan Prakash
-    - name: Andrey Bernstein
-    - name: Anjukan Kathirgamanathan
-    - name: Draguna Vrabie
-    - name: Giuseppe Pinto
-    - name: Gregor Henze
-    - name: Han Li
-    - name: Hari Prasanna Das
-    - name: Helia Zandi
-    - name: Himanshu Sharma
-    - name: Jan Drgona
-    - name: Javad Mohammadi
-    - name: Javier Arroyo
-    - name: Kingsley Nweye
-    - name: Kuldeep Kurte
-    - name: Matias Quintana
-    - name: Meiyi Li
-    - name: Ming Jin
-    - name: Wan Du
-    - name: Xiangyu Zhang
-    - name: Zhe Wang
-    - name: Zhiang Zhang
+    - name: "Pierre Pinson"
+    - name: "Lars Nordstrom"
+    - name: "Zoltan Nagy"
+    - name: "Linda Xiao"
+    - name: "Geert Deconinck"
+    - name: "Rishee Jain"
+    - name: "Peter Palensky"
+    - name: "Ricardo Vinuesa"
+    - name: "Spyros Chatzivasileiadis"
+    - name: "Jan Drgona"
+    - name: "Bert Claessens"
+    - name: "Tianzhen Hong"

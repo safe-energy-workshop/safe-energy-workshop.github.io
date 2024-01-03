@@ -1,5 +1,4 @@
----
-name: Gargya Gokhale
+--- name: Gargya Gokhale
 first_name: Gargya
 last_name: Gokhale
 email: gargya.gokhale@ugent.be
