@@ -4,7 +4,8 @@ description: The  1st  ACM International Workshop on Trust-worthy ML for energy 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://safe-energy-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
-theme: jekyll-theme-conference
+#theme: jekyll-theme-conference
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
 plugins:
   - jemoji
