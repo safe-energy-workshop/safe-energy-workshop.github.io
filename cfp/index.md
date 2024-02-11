@@ -10,11 +10,11 @@ title: Call for Papers
 <p>With the rapid proliferation of renewable energy and electrification of demand, energy grid stability is under serious stress in many parts of the world. With stated targets for decarbonization extending into the next decade, the situation is set to become more acute. This poses enormous potential socioeconomic costs in the form of grid black-outs, while also increasing actual costs to ratepayers in the procurement and activation of sufficient generation capacity (balancing services) to counteract an increasingly erratic supply-side. Today, these forecast errors in the (historically predictable) supply side are skyrocketing due to an increasing share of wind and solar generation in the energy mix. In many countries, stakeholders, including system operators and flexibility providers, are increasingly turning towards machine learning (ML) and automated decision-making as a tool to improve forecasts and activate demand-side flexibility to smooth out residual errors. </p>
 
 <p>However, ML-based solutions are no panacea. With limited sensing at most levels in the energy system, it is unclear how millions of distributed energy resources (such as heat pumps, electric vehicles and batteries etc.) can be modelled or even controlled in near-real-time by many stakeholders to optimize several objectives. More concretely, the ML models used for prediction and control in these settings are often devoid of three critical elements necessary for their use in the real-world: </p>
-<ul>
+<ol>
     <li> Causality: standard ML models trained on biased datasets tend to yield non-causal relationships between inputs and outputs.
     <li> Uncertainty estimates: standard ML models often struggle to quantify uncertainty in a well-calibrated manner.
     <li> Interpretability: standard ML models are often not interpretable by human domain experts, even when explainability tools (e.g. LIME or SHAP) are used.
-</ul>
+</ol>
 
 <p> Without addressing these topics, ML-based systems will continue to being unreliable partners in the ongoing energy transition. This will, at best, limit the use of complex automated systems and introduce an optimality gap. At worst, it has the potential to derail the energy transition entirely by destabilizing the energy grid. </p>
 
