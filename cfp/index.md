@@ -11,9 +11,9 @@ title: Call for Papers
 
 <p>However, ML-based solutions are no panacea. With limited sensing at most levels in the energy system, it is unclear how millions of distributed energy resources (such as heat pumps, electric vehicles and batteries etc.) can be modelled or even controlled in near-real-time by many stakeholders to optimize several objectives. More concretely, the ML models used for prediction and control in these settings are often devoid of three critical elements necessary for their use in the real-world: </p>
 <ol>
-    <li> Causality: standard ML models trained on biased datasets tend to yield non-causal relationships between inputs and outputs.
-    <li> Uncertainty estimates: standard ML models often struggle to quantify uncertainty in a well-calibrated manner.
-    <li> Interpretability: standard ML models are often not interpretable by human domain experts, even when explainability tools (e.g. LIME or SHAP) are used.
+    <li> Causality: standard ML models trained on biased datasets tend to yield non-causal relationships between inputs and outputs. </li>
+    <li> Uncertainty estimates: standard ML models often struggle to quantify uncertainty in a well-calibrated manner.</li>
+    <li> Interpretability: standard ML models are often not interpretable by human domain experts, even when explainability tools (e.g. LIME or SHAP) are used.</li>
 </ol>
 
 <p> Without addressing these topics, ML-based systems will continue to being unreliable partners in the ongoing energy transition. This will, at best, limit the use of complex automated systems and introduce an optimality gap. At worst, it has the potential to derail the energy transition entirely by destabilizing the energy grid. </p>
@@ -23,14 +23,14 @@ title: Call for Papers
 <p>Topics of interest include, but are not limited to:</p>
 <ul>
 <li> Limitations of standard ML models in modelling and control of critical
-infrastructure.
+infrastructure.</li>
 <li> The use of causal methods in ML-based modelling of renewable energy
-sources (RES) and control of distributed energy resources (DERs).
+sources (RES) and control of distributed energy resources (DERs).</li>
 <li> Quantification of uncertainty in ML-based modelling of RES and control of
-DERs.
-<li> Design of interpretable ML-based modelling of RES and control of DERs.
+DERs.</li>
+<li> Design of interpretable ML-based modelling of RES and control of DERs.</li>
 <li> Practical applications of causal, uncertainty-aware and interpretable ML
-models and controllers in practice
+models and controllers in practice.</li>
 </ul>
 
 <h2>Submission Instructions</h2>
