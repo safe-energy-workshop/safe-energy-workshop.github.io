@@ -82,12 +82,12 @@ conference:
         relative_url: /organization/
       - name: Location
         relative_url: /location/
-      - name: Previous Editions
-        menu:
-          - name: 2023 (current)
-            disabled: false
-            relative_url: /
-
+      # - name: Previous Editions
+        # menu:
+        #   - name: 2023 (current)
+        #     disabled: false
+        #     relative_url: /
+        #
   # Link Preview for Sharing
   link_preview:
     # also adapt "preposition" property at top for more meaningful descriptions
@@ -129,10 +129,10 @@ conference:
         color: primary
       # - name: discussion
       #   color: secondary
-      - name: keynote
-        color: warning
-      - name: tutorial
-        color: secondary
+      # - name: keynote
+      #   color: warning
+      # - name: tutorial
+        # color: secondary
       - name: other
         color: info
 
