@@ -41,7 +41,6 @@ models and controllers in practice.
 
 </ul>
 
-<h4><a href="TODO">Submission Link coming soon!</a><h4>
 
-
+<h4><a href="https://safe-energy24.hotcrp.com/">Submission Link</a><h4>
 
