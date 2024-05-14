@@ -5,7 +5,7 @@ days:
   rooms:
   - name: Room
     talks:
-      - name: Introduction remarks SAFE-ENERGY
+      - name: 'Introduction remarks: SAFE-ENERGY'
         time_start: '14:00'
         time_end: '15:15'
       - name: Safety of machine learning and data acquisition for urban analytics and GeoAI
@@ -17,32 +17,18 @@ days:
       - name: Explainable Home Energy Management Systems based on Reinforcement Learning using Differentiable Decision Trees
         time_start: '14:00'
         time_end: '15:15'
-  #       time_start: '08:40'
-  #       time_end: '08:55'
-  #     - name: Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning
-  #       time_start: '08:55'
-  #       time_end: '09:10'
-  #     - name: Break
-  #       time_start: '09:10'
-  #       time_end: '09:20'
-  #     - name: Is the Agent better than the Baseline? Google's Experiment Design for deploying Optimal Control on Smart Buildings
-  #       time_start: '09:20'
-  #       time_end: '09:50'
-  #     - name: A Lightweight Calibrated Simulation Enabling Efficient Offline Learning for Optimal Control of Real Buildings
-  #       time_start: '09:50'
-  #       time_end: '10:05'
-  #     - name: 'TBMEnv - An Environment to Assess the Accuracy of Thermal Building Models under Realistic Conditions'
-  #       time_start: '10:05'
-  #       time_end: '10:20'
-  #     - name: Break
-  #       time_start: '10:20'
-  #       time_end: '10:30'
-  #     - name: 'CityLearn: A Tutorial on Reinforcement Learning Control for Grid-Interactive Efficient Buildings and Communities'
-  #       time_start: '10:30'
-  #       time_end: '12:30'
-  #     - name: Introduction to the BOPTEST Framework for Testing and Benchmarking Advanced Controllers
-  #       time_start: '10:30'
-  #       time_end: '14:00'
-      # - name: Closing
-      #   time_start: '14:00'
-      #   time_end: '14:05'
+      - name: Break
+        time_start: '15:15'
+        time_end: '15:45'
+      - name: 'Data or Algorithms: Reliability and Interpretability of Machine Learning in Building Load Forecasting'
+        time_start: '15:45'
+        time_end: '17:00'
+      - name: 'Beyond empirical risk: testing data-driven energy models in sparse and biased data regimes'
+        time_start: '15:45'
+        time_end: '17:00'
+      - name: 'Panel discussion: On the trustworthiness and safety of machine learning models in regulated energy settings, and how to get there'
+        time_start: '15:45'
+        time_end: '17:00'
+      - name: Closing
+        time_start: '15:45'
+        time_end: '17:00'

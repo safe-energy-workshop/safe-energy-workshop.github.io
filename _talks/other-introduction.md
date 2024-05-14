@@ -1,7 +1,7 @@
 ---
-name: Introduction
+name: 'Introduction remarks: SAFE-ENERGY'
 speakers:
-  - Hussain Kazmi
+  - Clayton Miller
 categories:
   - other
 permalink: "/:collection/:categories/Introduction"
