@@ -1,7 +1,7 @@
 days:
-- name: Sunday
-  abbr: Sun
-  date: 2024-06-03
+- name: Tuesday
+  abbr: Tues
+  date: 2024-06-04
   rooms:
   - name: Room
     talks:
@@ -29,6 +29,6 @@ days:
       - name: 'Panel discussion: On the trustworthiness and safety of machine learning models in regulated energy settings, and how to get there'
         time_start: '15:45'
         time_end: '17:00'
-      - name: Closing
-        time_start: '15:45'
-        time_end: '17:00'
+      # - name: Closing
+      #   time_start: '15:45'
+      #   time_end: '17:00'
