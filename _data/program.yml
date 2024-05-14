@@ -1,20 +1,22 @@
 days:
 - name: Sunday
   abbr: Sun
-  date: 2024-XX-XX
+  date: 2024-06-03
   rooms:
-  # - name: Room
-  #   talks:
-  #     - name: Introduction
-  #       time_start: '08:00'
-  #       time_end: '08:10'
-  #     - name: Deploying Reinforcement Learning for Energy Management at Scale
-  #       time_start: '08:10'
-  #       time_end: '08:40'
-  #     - name: 'Economizer Optimization with Reinforcement Learning: An Industry Perspective'
-  #       time_start: '08:10'
-  #       time_end: '08:40'
-  #     - name: Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households
+  - name: Room
+    talks:
+      - name: Introduction remarks SAFE-ENERGY
+        time_start: '14:00'
+        time_end: '15:15'
+      - name: Safety of machine learning and data acquisition for urban analytics and GeoAI
+        time_start: '14:00'
+        time_end: '15:15'
+      - name: On interpretable and explainable machine learning for urban building energy modeling and calibration
+        time_start: '14:00'
+        time_end: '15:15'
+      - name: Explainable Home Energy Management Systems based on Reinforcement Learning using Differentiable Decision Trees
+        time_start: '14:00'
+        time_end: '15:15'
   #       time_start: '08:40'
   #       time_end: '08:55'
   #     - name: Smart Home Energy Cost Minimisation Using Energy Trading with Deep Reinforcement Learning
