@@ -7,15 +7,15 @@ days:
     talks:
       - name: 'Introduction remarks: SAFE-ENERGY'
         time_start: '14:00'
-        time_end: '15:15'
+        time_end: '14:15'
       - name: Safety of machine learning and data acquisition for urban analytics and GeoAI
-        time_start: '14:00'
-        time_end: '15:15'
+        time_start: '14:15'
+        time_end: '14:35'
       - name: On interpretable and explainable machine learning for urban building energy modeling and calibration
-        time_start: '14:00'
-        time_end: '15:15'
+        time_start: '14:35'
+        time_end: '14:55'
       - name: Explainable Home Energy Management Systems based on Reinforcement Learning using Differentiable Decision Trees
-        time_start: '14:00'
+        time_start: '14:55'
         time_end: '15:15'
       - name: Break
         time_start: '15:15'
