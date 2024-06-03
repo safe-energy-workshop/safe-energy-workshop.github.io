@@ -10,7 +10,7 @@ SAFE-ENERGY'24 will be held in conjunction with [e-Energy'24](https://energy.acm
 
 
 ## Registration
-More information coming soon!
+Visti the [E-Energy](https://energy.acm.org/conferences/eenergy/2024/registration.php) website!
 
 ## Keynote
-:mega: More information coming soon!
+:mega: More information in the [Program](https://safe-energy-workshop.github.io/program/) tab!
